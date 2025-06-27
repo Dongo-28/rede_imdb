@@ -79,3 +79,16 @@ Amadeu Dongo Rocha
 📧 Email: amadeudongo@gmail.com
 🔗 LinkedIn: Amadeu Dongo Rocha
 📍 São Vicente, Cabo Verde
+
+
+📝 Licença
+Este projeto é livre para fins académicos e educacionais. Licença MIT ou outra à tua escolha.
+
+---
+
+### ⚠️ Nota
+
+- Queres que te ajude a **criar um repositório GitHub** e fazer *push* do projeto?
+- Posso também incluir uma **versão do README em inglês**, se quiseres tornar o projeto mais internacional.
+
+Posso agora gerar o ficheiro `README.md` para colocares diretamente na pasta. Confirmas?

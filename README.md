@@ -13,11 +13,16 @@ Desenvolver um modelo de aprendizagem profunda (rede neural) capaz de identifica
 ## 📂 Estrutura do Projeto
 
 rede_imdb/
+
 │
 ├── .env # Dependências necessárias
+
 ├── main.py # Código principal com o modelo e execução
+
 ├── requirements.txt # Lista de bibliotecas necessárias
+
 ├── README.md # Este ficheiro
+
 └── .gitignore # Arquivos ignorados pelo Git
 
 
@@ -40,7 +45,6 @@ cd rede_imdb
 
 
 2. Cria e ativa um ambiente virtual (opcional mas recomendado):
-
 python -m venv .venv
 # No Windows
 .venv\Scripts\activate
@@ -48,11 +52,9 @@ python -m venv .venv
 source .venv/bin/activate
 
 3. Instala as dependências:
-
 pip install -r requirements.txt
 
 4. Executa o projeto:
-
 python main.py
 
 📊 Resultado Esperado
@@ -60,23 +62,17 @@ O modelo treina durante 10 épocas e apresenta a acurácia final nos dados de te
 
 
 🧠 Tecnologias Usadas
-Python 3
-
-TensorFlow / Keras
-
-Dataset IMDB (incluído via tensorflow.keras.datasets)
+- Python 3
+- TensorFlow / Keras
+- Dataset IMDB (incluído via tensorflow.keras.datasets)
 
 
 🛠️ Personalização
 Podes modificar:
-
-O número de épocas (epochs)
-
-A arquitetura da rede (Dense, Dropout, etc.)
-
-O pré-processamento dos dados
-
-A visualização de resultados com matplotlib
+- O número de épocas (epochs)
+- A arquitetura da rede (Dense, Dropout, etc.)
+- O pré-processamento dos dados
+- A visualização de resultados com matplotlib
 
 
 🤝 Autor

@@ -77,7 +77,6 @@ Podes modificar:
 🤝 Autor
 Amadeu Dongo Rocha
 📧 Email: amadeudongo@gmail.com
-🔗 LinkedIn: Amadeu Dongo Rocha
 📍 São Vicente, Cabo Verde
 
 

@@ -77,8 +77,8 @@ Podes modificar:
 
 🤝 Autor
 Amadeu Dongo Rocha
-📧 Email (https://mail.google.com/mail/u/0/#inbox)
-🔗 LinkedIn (https://www.linkedin.com/in/amadeu-dongo-rocha-828aab2b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📧 **Email**: [amadeudongo@gmail.com](amadeudongo@gmail.com)
+🔗 **LinkedIn**: [O Meu Perfil no LinkedIn](https://www.linkedin.com/in/amadeu-dongo-rocha-828aab2b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 📍 São Vicente, Cabo Verde
 
 
@@ -93,6 +93,3 @@ Este projeto é livre para fins académicos e educacionais. Licença MIT ou outr
 - Posso também incluir uma **versão do README em inglês**, se quiseres tornar o projeto mais internacional.
 
 Posso agora gerar o ficheiro `README.md` para colocares diretamente na pasta. Confirmas?
-
-
-

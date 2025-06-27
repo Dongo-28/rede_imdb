@@ -43,7 +43,6 @@ rede_imdb/
 git clone https://github.com/Dongo-28/rede_imdb.git
 cd rede_imdb
 
-
 2. Cria e ativa um ambiente virtual (opcional mas recomendado):
 python -m venv .venv
 # No Windows

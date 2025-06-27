@@ -77,8 +77,8 @@ Podes modificar:
 
 🤝 Autor
 Amadeu Dongo Rocha
-📧 **Email**: [amadeudongo@gmail.com](amadeudongo@gmail.com)
-🔗 **LinkedIn**: [O Meu Perfil no LinkedIn](https://www.linkedin.com/in/amadeu-dongo-rocha-828aab2b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📧 Email: amadeudongo@gmail.com
+🔗 LinkedIn: Amadeu Dongo Rocha
 📍 São Vicente, Cabo Verde
 
 
